@@ -118,7 +118,7 @@ input, select, textarea {
 
 	body {
 		background-color: #ffffff;
-		color: rgba(255, 255, 255);
+		color: rgba(30, 144, 255);
 	}
 
 	body, input, select, textarea {
@@ -300,11 +300,11 @@ input, select, textarea {
 	}
 
 	input, select, textarea {
-		color: #ffffff;
+		color: #1E90FF;
 	}
 
 	a:hover {
-		color: #ffffff;
+		color: #1E90FF;
 	}
 
 	strong, b {
@@ -312,7 +312,7 @@ input, select, textarea {
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		color: #ffffff;
+		color: #1E90FF;
 	}
 
 	blockquote {
